@@ -1,0 +1,9 @@
+{
+  "name": "decentralized-ai-inference-network",
+  "version": "1.0.0",
+  "description": "Verifiable AI inference coordinator",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "ethers": "^6.10.0"
+  }
+}
